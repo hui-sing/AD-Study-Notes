@@ -1,8 +1,3 @@
----
-title: AD enum&attack
-
----
-
 
 ## 外部偵查 external reconnaissance
 
